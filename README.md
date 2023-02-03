@@ -1,4 +1,5 @@
-# Pytest Lab
+#Pytest Lab [https://github.com/elissayz/continuous-integration/actions?q    uery=workflow%3Atests](https://github.com/elissayz/continuous-integration/workflows/tes    ts/badge.svg)
+
 
 In this lab you will walk through the basic procedure for creating and contributing to an open source project.
 You will also walk through how to use the pytest framework for running test cases.
